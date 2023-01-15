@@ -1,4 +1,4 @@
-Ola Me Chamo João Pedro
+Olá Me Chamo João Pedro
 
 DEV. Front End (Web)
 
