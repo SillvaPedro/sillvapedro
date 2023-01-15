@@ -7,7 +7,7 @@ Sou Estudante de (ADS) e Dev.Front End (Web)
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-GitHub" height="30" width="40" src="(https://cdn.iconscout.com/icon/free/png-256/github-169-1174970.png)">
+  <img align="center" alt="Pedro-GitHub" height="30" width="40" src="https://th.bing.com/th/id/R.b242d076cd17b29674ff1f99a3db9da6?rik=qsdwYZSrM%2b2cJw&riu=http%3a%2f%2fwww.universobim.com%2flg%2fwp-content%2fuploads%2f2020%2f12%2fgithub-169-1174970.png&ehk=XHYqj36PIUQOl%2fOMGgrEJXefKmBKIVlYbAkDb2FFL%2bY%3d&risl=&pid=ImgRaw&r=0">
 </div>
   
   ##
